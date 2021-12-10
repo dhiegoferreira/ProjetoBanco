@@ -39,7 +39,7 @@
 
 ### **Banco de dados MySql** :cloud:
 
-![](C:\Users\Dhiego Ferreira\Desktop\ProjetoBanco\BDCLIENTE.png)
+![BDCLIENTE](https://user-images.githubusercontent.com/53379935/145626201-1dc6d01e-910c-4b82-b241-85b0a2d6a23b.png)
 
 ### **Diagrama Relacional** :chart_with_downwards_trend:
 
