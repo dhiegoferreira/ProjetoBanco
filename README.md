@@ -17,23 +17,23 @@
 
 - Tela Criar Conta:
 
-![](C:\Users\Dhiego Ferreira\Desktop\ProjetoBanco\CRIAR CONTA.png)
+  ![TelaCriarConta](https://user-images.githubusercontent.com/53379935/145626160-4c7711fb-4b25-405e-8a54-11a4b02c44b9.png)
 
 - Tela Acesso:
 
-![](C:\Users\Dhiego Ferreira\Desktop\ProjetoBanco\Menudocliente.png)
+  ![TelaAcesso](https://user-images.githubusercontent.com/53379935/145625981-19042a5c-3ce8-4b61-ad2f-a6035ba99762.png)
 
 - Tela Depósito:
 
-  ![](C:\Users\Dhiego Ferreira\Desktop\ProjetoBanco\TelaDeposito.png)
+  ![TelaDeposito](https://user-images.githubusercontent.com/53379935/145626058-c15d84bf-5f11-4c0c-8202-e4457864533f.png)
 
-- Tela Saque 
+- Tela Sacar 
 
-  ![](C:\Users\Dhiego Ferreira\Desktop\ProjetoBanco\SACAR.png)
+  ![TelaSaca](https://user-images.githubusercontent.com/53379935/145626060-d5b44410-8ec3-4d58-b716-bac1b4add55d.png)
 
 - Tela Trasferir
 
-![](C:\Users\Dhiego Ferreira\Desktop\ProjetoBanco\TelaTransferir.png)
+  ![TelaTransferir](https://user-images.githubusercontent.com/53379935/145626061-9c55a1cb-7e6a-483d-8310-b8f29e50c4a7.png)
 
 
 
