@@ -13,7 +13,7 @@
 
 - Tela Login:
 
-  ![](C:\Users\Dhiego Ferreira\Desktop\ProjetoBanco\TelaLogin.png)
+  ![TelaLogin](https://user-images.githubusercontent.com/53379935/145625682-4d6df52f-c04d-4f28-a3a0-a1fd80fd374a.png)
 
 - Tela Criar Conta:
 
