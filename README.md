@@ -22,8 +22,8 @@
        String sql="Select * from conta WHERE Numero = ? and Senha = ?";
        try {
            //Capturar o que está no formulário
-           //prepara consulta ao banco passando o que foi digitado nas caixas de texto.
-           // o ? é substituido pelo conteúdo inserido pelo usuário através das caixas de texto
+           //prepara consulta ao banco, passando o que foi digitado nas caixas de texto.
+           // o ? é substituido pelo conteúdo inserido pelo usuário através das caixas de texto.
            pst = conexao.prepareStatement(sql);
            pst.setString(1, txtLogin.getText());
            pst.setString(2, txtSenha.getText());
