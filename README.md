@@ -16,7 +16,7 @@
   ![TelaLogin](https://user-images.githubusercontent.com/53379935/145625682-4d6df52f-c04d-4f28-a3a0-a1fd80fd374a.png)
   
   
-  #### Validação de acesso e consulta no Banco de Dados:
+  #### Validação de acesso e consulta ao Banco de Dados:
   ```
        public void logar(){        
        String sql="Select * from conta WHERE Numero = ? and Senha = ?";
