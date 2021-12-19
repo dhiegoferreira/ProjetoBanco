@@ -4,7 +4,7 @@
 
 ### O ProjetoBanco, escito em Java com auxílio do Framework Java Swing, tem como objetivo simular uma aplicação Desktop básica de um Sistema Bancário. Além disso, possui integração ao banco de dados MySql. Nesta aplicação foram implementadas algumas funções caracaterísticas do tipo do sistema, como:
 
-- *Criar conta*
+- *Consultar saldo*
 - *Depositar*
 - *Sacar*
 - *Transferir*
