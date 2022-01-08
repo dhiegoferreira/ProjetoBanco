@@ -46,6 +46,7 @@
                txtSenha.setText("");
            }     
        } catch (Exception e) {JOptionPane.showMessageDialog(null, e); }    
+            JOptionPane.ShowMessageDialog(null, e);
        }
     ``` 
   
