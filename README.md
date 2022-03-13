@@ -45,7 +45,7 @@
                txtLogin.setText("");
                txtSenha.setText("");
            }     
-       } catch (Exception e) {JOptionPane.showMessageDialog(null, e); }    
+       } catch (Exception e) {  
             JOptionPane.ShowMessageDialog(null, e);
        }
     ``` 
