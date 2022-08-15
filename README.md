@@ -15,41 +15,7 @@
 
   ![TelaLogin](https://user-images.githubusercontent.com/53379935/145625682-4d6df52f-c04d-4f28-a3a0-a1fd80fd374a.png)
   
-  
-  #### Validação de acesso e consulta ao Banco de Dados:
-  ```
-       public void logar(){        
-       String sql="Select * from conta WHERE Numero = ? and Senha = ?";
-       try {
-           //Capturar o que está no formulário
-           //prepara consulta ao banco, passando o que foi digitado nas caixas de texto.
-           // o ? é substituido pelo conteúdo inserido pelo usuário através das caixas de texto.
-           pst = conexao.prepareStatement(sql);
-           pst.setString(1, txtLogin.getText());
-           pst.setString(2, txtSenha.getText());
-           
-           // A linha abaixo executa a query
-           rs = pst.executeQuery();
-           
-           //Se existir usuário e senha correspondente
-           if(rs.next()){//LIBERA O ACESSO
-               conta = Integer.parseInt(txtLogin.getText());
-               System.out.println(conta);
-               senha = Integer.parseInt(txtSenha.getText());
-               TelaAcesso telacess = new TelaAcesso();
-               this.dispose();
-               telacess.setVisible(true); //Vai abrir a tela de acesso
-                             
-           } else {//RECUSA O ACESSO
-               JOptionPane.showMessageDialog(null, "Usuário e/ou senha inválido(s).");
-               txtLogin.setText("");
-               txtSenha.setText("");
-           }     
-       } catch (Exception e) {  
-            JOptionPane.ShowMessageDialog(null, e);
-       }
-    ``` 
-  
+
 
 - Tela Criar Conta:
 
